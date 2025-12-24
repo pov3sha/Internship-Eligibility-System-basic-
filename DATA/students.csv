@@ -1,0 +1,5 @@
+student_id,name,gpa,skills,availability_weeks,start_date
+VIT001,Esha,8.4,"Python;SQL;ML",12,2025-05-01
+VIT002,Aarav,6.9,"Python;C++",10,2025-05-01
+VIT003,Riya,7.8,"Python;SQL",8,2025-05-01
+VIT004,Kunal,9.1,"Python;SQL;Data Analysis",11,2025-05-01
