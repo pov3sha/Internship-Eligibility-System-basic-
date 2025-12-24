@@ -1,0 +1,28 @@
+[
+  {
+    "internship_id": "INT001",
+    "company": "FinTech Labs",
+    "min_gpa": 7.5,
+    "required_skills": ["Python", "SQL"],
+    "min_duration_weeks": 10,
+    "max_duration_weeks": 12,
+    "weights": {
+      "gpa": 0.4,
+      "skills": 0.4,
+      "availability": 0.2
+    }
+  },
+  {
+    "internship_id": "INT002",
+    "company": "AI Research Hub",
+    "min_gpa": 8.0,
+    "required_skills": ["Python", "ML"],
+    "min_duration_weeks": 12,
+    "max_duration_weeks": 12,
+    "weights": {
+      "gpa": 0.5,
+      "skills": 0.3,
+      "availability": 0.2
+    }
+  }
+]
